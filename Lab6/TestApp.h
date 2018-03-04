@@ -111,10 +111,7 @@ private:
 	}
 
 public:
-	void run()
-	{
-		drinkMenu();
-	}
+	void run();
 };
 
 #endif // !Sugar
